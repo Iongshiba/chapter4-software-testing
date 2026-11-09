@@ -3,7 +3,14 @@
 __pycache__/
 .pytest_cache/
 .coverage
+htmlcov/
 
 # Editor settings
 .idea/
 .vscode/
+
+# Instructor-only materials (marking solutions and demo scripts)
+*solution*
+*SOLUTION*
+LAB_SCRIPT.md
+**/LAB_SCRIPT.md
